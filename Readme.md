@@ -1,4 +1,4 @@
-# Conway's Game of Life <sup>[[1]]</sup>
+# Conway's Game of Life <sup>[[1]](#1)</sup>
 
 ## About
 
@@ -20,4 +20,6 @@ yarn run preview
    1. css modules (for component scoped styles)
 3. typescript
 
-[1]: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life "Conway's Game of Life"
+## References
+
+<a id="1">[1]</a> Conway's Game of Life (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
